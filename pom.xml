@@ -184,8 +184,8 @@
       </plugin>
       <plugin>
         <groupId>io.spring.javaformat</groupId>
-        <artifactId>spring-javaformat-maven-plugin</artifactId>
-        <version>${spring-format.version}</version>
+        <artifactId>spring-petclinic</artifactId>
+<version>4.0.0-SNAPSHOT</version>
         <executions>
           <execution>
             <goals>
